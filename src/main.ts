@@ -1,4 +1,5 @@
 import add from './add';
+import subtraction from './subtraction';
 // LAB: Importar subtraction
 
 
@@ -10,4 +11,5 @@ if (output) {
 
 // LAB: Invocar subtraction
 
-
+let result2 = subtraction(5, 5);
+let output = document.querySelector()
